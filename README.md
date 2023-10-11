@@ -33,3 +33,8 @@ Libraries Used: Pandas, Matplotlib, Seaborn and Numpy
 
   We found that Glucose, BMI, Age, and Pregnancies are strongly correlated with the outcome, suggesting that higher glucose levels may be a significant contributor to the presence of 
   diabetes.
+
+## Data Source:
+The dataset used in this project is sourced from Kaggle
+
+Dataset URL:- https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database/data
